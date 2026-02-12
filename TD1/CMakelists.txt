@@ -1,1 +1,1 @@
-add_executable(exo1 exo1.<LANG>_CPPCHECK)
+add_executable(exo1_td1 exo1.cpp "exo2.cpp")
